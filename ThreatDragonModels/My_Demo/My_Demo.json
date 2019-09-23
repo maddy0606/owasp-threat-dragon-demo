@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "My_Demo",
+    "owner": "Madhuri",
+    "description": "Demo threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Madhuri Deb"
+  }
+}
